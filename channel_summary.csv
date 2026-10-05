@@ -1,0 +1,5 @@
+channel,spend,revenue,mean_daily_roas,roas_ci_low,roas_ci_high,p_roas_below_1,losing_money
+Display,26775,22719,0.84,0.74,0.94,0.0015,True
+Email,8734,102790,11.8,11.14,12.46,1.0,False
+Paid Search,44986,139764,3.1,2.9,3.29,1.0,False
+Social,38547,61128,1.66,1.51,1.81,1.0,False
